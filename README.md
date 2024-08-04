@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 "Ask me the questions, bridgekeeper. I am not afraid."
 
-👋 ## Hello there, I'm Cameron
+## Hello there, I'm Cameron 👋 
 
 I am a full stack software engineer with experience in JavaScript, TypeScript, Go, Ruby, PostgreSQL, and React.
 
